@@ -1,0 +1,8 @@
+.product-detail {
+  border-top: 1px solid black;
+  display: flex;
+  justify-content: center;
+}
+.product-detail span {
+  margin: 10px;
+}
